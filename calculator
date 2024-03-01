@@ -1,2 +1,6 @@
 cout<<"Mahnoor";
 cout<<"23_st_013";
+cout<<"addition will add two numbers<<'a'and'b'<<;
+cout<<"subtraction will subtract two numbers"<<'a'and'b'<<;
+cout<<"multiplication will multiply two numbers"<<'a'and'b'<<;
+cout<<"division will divide two numbers"<<'a'and'b'<<;
